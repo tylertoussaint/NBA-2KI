@@ -27,7 +27,7 @@ The code provides real-time feedback on the recognized gestures by displaying th
 The script draws landmarks and skeletal connections on the video frames to help visualize the body's pose and movements. It also displays the most recent detected events at the top of the video frame.
 
 ### Controller functionality
-By using a controller the user can also perform the actions in game not current covered by the program (i.e. moving around)
+By using a controller the user can also perform the actions in game not currently covered by the program (i.e. moving around)
 
 ## Gesture Guide
 
