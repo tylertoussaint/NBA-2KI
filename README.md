@@ -48,7 +48,6 @@ Turn in either direction facing perpendicular to the camera
 
 ## Usage
 - Run the script in a Jupyter Notebook or any Python environment (suggest Jupyter Notebook as dependecies and libraries already installed).
-  -
 - Make sure you have a webcam or camera connected for real-time gesture detection.
 - Make sure key bindings in 2k are set to:
   - shooting: 1
