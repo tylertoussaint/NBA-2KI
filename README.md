@@ -25,3 +25,20 @@ The code provides real-time feedback on the recognized gestures by displaying th
 
 ### Visualizations
 The script draws landmarks and skeletal connections on the video frames to help visualize the body's pose and movements. It also displays the most recent detected events at the top of the video frame.
+
+## Gesture Guide
+
+### Shooting
+Raise both wrists above the shoulders
+
+### Shot Finished
+With wrists still above shoulder fully extend one arm past an angle of 165
+
+### Right cross
+Right wrist must be below and to the left of the right hip
+
+### Left cross
+Left wrist must be below and to the right of the left hip
+
+### Stepback
+Turn in either direction facing perpendicular to the camera
