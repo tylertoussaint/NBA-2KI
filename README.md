@@ -26,6 +26,9 @@ The code provides real-time feedback on the recognized gestures by displaying th
 ### Visualizations
 The script draws landmarks and skeletal connections on the video frames to help visualize the body's pose and movements. It also displays the most recent detected events at the top of the video frame.
 
+### Controller functionality
+By using a controller the user can also perform the actions in game not current covered by the program (i.e. moving around)
+
 ## Gesture Guide
 
 ### Shooting
@@ -42,3 +45,13 @@ Left wrist must be below and to the right of the left hip
 
 ### Stepback
 Turn in either direction facing perpendicular to the camera
+
+## Usage
+- Run the script in a Jupyter Notebook or any Python environment (suggest Jupyter Notebook as dependecies and libraries already installed).
+  -
+- Make sure you have a webcam or camera connected for real-time gesture detection.
+- Make sure key bindings in 2k are set to:
+  - shooting: 1
+  - right cross:9
+  - left cross: 0
+- Perform the supported gestures in front of the camera to see the corresponding events recognized and displayed. The script will provide feedback and simulate keyboard events using `pydirectinput`.
