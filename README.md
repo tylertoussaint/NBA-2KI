@@ -51,7 +51,7 @@ Turn in either direction facing perpendicular to the camera
   - https://docs.jupyter.org/en/latest/install/notebook-classic.html (download instructions for jupyter notebook)
 - Make sure you have a webcam or camera connected for real-time gesture detection.
 - Make sure key bindings in 2k are set to:
-  - shooting: 1
-  - right cross:9
-  - left cross: 0
+  - Shooting: 1
+  - Pro Stick Left:9
+  - Pro Stick Right: 0
 - Perform the supported gestures in front of the camera to see the corresponding events recognized and displayed. The script will provide feedback and simulate keyboard events using `pydirectinput`.
