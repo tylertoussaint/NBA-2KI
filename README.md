@@ -54,4 +54,5 @@ Turn in either direction facing perpendicular to the camera
   - Shooting: 1
   - Pro Stick Left:9
   - Pro Stick Right: 0
+  - Pro Stick Down: 8
 - Perform the supported gestures in front of the camera to see the corresponding events recognized and displayed. The script will provide feedback and simulate keyboard events using `pydirectinput`.
