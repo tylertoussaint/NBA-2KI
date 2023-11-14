@@ -36,29 +36,27 @@ By using a controller the user can also perform the actions in game not currentl
 ### Shooting
 Raise both wrists above the shoulders
 
-![shooting](https://github.com/tylertoussaint/NBA-2KI/assets/87991331/d2175401-0a0a-43b3-9585-e6f8476fb839)
+![shooting](https://github.com/tylertoussaint/NBA-2KI/assets/87991331/dfe1daf6-cf3d-449c-9e6c-3c3c2ba24421)
 
 ### Shot Finished
 With wrists still above shoulder fully extend one arm past an angle of 165
 
-![shotFinished](https://github.com/tylertoussaint/NBA-2KI/assets/87991331/564e7389-99b0-445c-8e73-341cfdadf0b9)
-
+![shotFinished](https://github.com/tylertoussaint/NBA-2KI/assets/87991331/20ff35a0-7ae0-4743-853b-01668c60bae6)
 
 ### Right cross
 Right wrist must be below and to the left of the right hip
 
-![rightcross](https://github.com/tylertoussaint/NBA-2KI/assets/87991331/253fab73-e015-49ca-b19a-835e3e93dfdc)
+![rightcross](https://github.com/tylertoussaint/NBA-2KI/assets/87991331/ad07c434-3fc4-4d32-b3b1-34ef272ae644)
 
 ### Left cross
 Left wrist must be below and to the right of the left hip
 
-![leftcross](https://github.com/tylertoussaint/NBA-2KI/assets/87991331/1ac977d5-0716-44bd-a457-4b4e3304ef6f)
+![leftcross](https://github.com/tylertoussaint/NBA-2KI/assets/87991331/196ac0ea-75e4-4acb-9163-72ae924716f6)
 
 ### Stepback
 Turn in either direction facing perpendicular to the camera
 
-![stepback](https://github.com/tylertoussaint/NBA-2KI/assets/87991331/5747d347-486e-42a5-8ff3-dd4c066dd9b9)
-
+![stepback](https://github.com/tylertoussaint/NBA-2KI/assets/87991331/16c41df0-e685-4270-a7dd-b8db284e2ab2)
 
 ## Usage
 - Run the script in a Jupyter Notebook or any Python environment (suggest Jupyter Notebook as dependecies and libraries already installed).
