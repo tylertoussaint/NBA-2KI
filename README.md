@@ -7,7 +7,7 @@ This Python script combines the power of the MediaPipe Pose model and the `pydir
 ***Download `nba2kiVid.mp4` to view gameplay (slight lag in program due to OBS recording)
 
 ### Why build this?
-For years, NBA 2k and Take-Two Interactive have been the leading producer of basketball video games for both console and PC. With virtually no competition, thousands of players come back every September to purchase the newest edition and then continue to spend throughout the year by buying VC (in-game currency). Although great for the company, the influx of money allows for Take-Two to be satisfied with their product and often leads to overlooking consumer complaints. Recently, the addition of crossplay brought to light the neglect faced by PC users and being ranked the second worst game on steam this year, NBA 2k was finally called out on their lack of time spent on their PC platform. PC players deal with an older generation of the game and loss of functions when using a keyboard, and as a result NBA 2k for PC feels like a different game entirely. So why not make it a different game entirely? With the use of this program, PC players now have a unique and immersive experience giving users a new purpose to playing the game and driving more users to join the community.
+For years, NBA 2k and Take-Two Interactive have been the leading producer of basketball video games for both console and PC. With virtually no competition, thousands of players come back every September to purchase the newest edition and then continue to spend throughout the year by buying VC (in-game currency). Although great for the company, the influx of money allows for Take-Two to be satisfied with their product and often leads to overlooking consumer complaints. Recently, the addition of crossplay brought to light the neglect faced by PC users and being ranked the second worst game on Steam this year, NBA 2k was finally called out on their lack of time spent on their PC platform. PC players deal with an older generation of the game and loss of functions when using a keyboard, and as a result NBA 2k for PC feels like a different game entirely. So why not make it a different game entirely? With the use of this program, PC players now have a unique and immersive experience giving users a new purpose to playing the game and driving more users to join the community.
 ## Key Features
 
 ### Shooting Gesture Detection
@@ -59,7 +59,7 @@ Turn in either direction facing perpendicular to the camera
 ![stepback](https://github.com/tylertoussaint/NBA-2KI/assets/87991331/16c41df0-e685-4270-a7dd-b8db284e2ab2)
 
 ## Usage
-- Run the script in a Jupyter Notebook or any Python environment (suggest Jupyter Notebook as dependecies and libraries already installed).
+- Run the script in a Jupyter Notebook or any Python environment (suggest Jupyter Notebook as dependencies and libraries already installed).
   - https://docs.jupyter.org/en/latest/install/notebook-classic.html (download instructions for jupyter notebook)
 - Make sure you have a webcam or camera connected for real-time gesture detection.
 - Make sure key bindings in 2k are set to:
